@@ -1,5 +1,4 @@
-# JUNE | The Personal AI Assistant
-
+# JUNE | The Personal AI Assistant: Final Project-Harvard University's CS50 course
 #### Video Demo: [Watch on YouTube](https://www.youtube.com/watch?v=mI_MglLQMS8)
 
 #### Description:
